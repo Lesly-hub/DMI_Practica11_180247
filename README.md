@@ -29,3 +29,9 @@ Es un widget que se utiliza para crear una barra de navegación en la parte infe
 Este archivo contiene la definición de la clase `MediaList`, que es un StatefulWidget que representa una lista de medios.
 
 ### `HttpHandler.dart`
+![image](https://github.com/Lesly-hub/DMI_Practica11_180247/assets/74167109/7006852b-154c-4041-a067-28cae5c861b6)
+![image](https://github.com/Lesly-hub/DMI_Practica11_180247/assets/74167109/0f85ea5a-9e53-4ca0-a0ed-e04db45d39cc)
+![image](https://github.com/Lesly-hub/DMI_Practica11_180247/assets/74167109/5cf5e3dd-96ae-47e9-a929-e82ac7e825bc)
+
+
+
